@@ -110,6 +110,7 @@ def parse_args():
         "-t",
         "--template-name",
         default=DEFAULT_TEMPLATE_NAME,
+        choices=[DEFAULT_TEMPLATE_NAME, "short"],
         help=f"テンプレート名。(デフォルト値: {DEFAULT_TEMPLATE_NAME})",
     )
 
