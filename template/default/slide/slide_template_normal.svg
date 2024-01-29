@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="slide_template_normal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showguides="true"
+     inkscape:zoom="0.38385417"
+     inkscape:cx="960"
+     inkscape:cy="539.2673"
+     inkscape:current-layer="svg1"
+     showgrid="false">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="1920"
+       height="1080"
+       id="page3"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="1930"
+       y="0"
+       width="1920"
+       height="1080"
+       id="page4"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="3860"
+       y="0"
+       width="1920"
+       height="1080"
+       id="page6"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="5790"
+       y="0"
+       width="1920"
+       height="1080"
+       id="page7"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="50.310581"
+       y="491.1271"
+       width="1815.9724"
+       height="206.03379"
+       id="rect3" />
+    <rect
+       x="59.893549"
+       y="0"
+       width="1892.8766"
+       height="699.55665"
+       id="rect2" />
+    <rect
+       x="50.310581"
+       y="491.12711"
+       width="2346.9409"
+       height="142.52882"
+       id="rect3-9" />
+    <rect
+       x="50.310581"
+       y="491.12711"
+       width="2346.9409"
+       height="142.52882"
+       id="rect3-9-4" />
+    <rect
+       x="50.310581"
+       y="491.12711"
+       width="2346.9409"
+       height="142.52882"
+       id="rect3-9-4-8" />
+    <rect
+       x="50.310581"
+       y="491.12711"
+       width="2346.9409"
+       height="142.52882"
+       id="rect3-9-4-8-3" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="template"
+     sodipodi:insensitive="true">
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#40516b;fill-opacity:1;stroke:none;stroke-width:15.7463;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:15.7463, 31.4926;stroke-opacity:0.48743"
+       id="rect1"
+       width="1920"
+       height="697.16089"
+       x="0"
+       y="0"
+       ry="0"
+       inkscape:label="title_background" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Parts"
+     style="display:inline" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="font-size:240px;line-height:1;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP, @wght=400';font-variation-settings:'wght' 400;text-align:start;white-space:pre;shape-inside:url(#rect2);shape-padding:4.79148;display:inline"
+       transform="translate(-44.331871,6.9982079)"
+       x="1045.8679"
+       y="0"><tspan
+         x="64.683594"
+         y="215.99102"
+         id="tspan7"><tspan
+           style="-inkscape-font-specification:'Noto Sans JP, @wght=800';font-variation-settings:'wght' 800;fill:#ffb524"
+           id="tspan4">スライド</tspan><tspan
+           style="-inkscape-font-specification:'Noto Sans JP, @wght=800';font-variation-settings:'wght' 800;fill:#ffb524"
+           id="tspan6">の
+</tspan></tspan><tspan
+         x="64.683594"
+         y="455.99102"
+         id="tspan9"><tspan
+           style="-inkscape-font-specification:'Noto Sans JP, @wght=800';font-variation-settings:'wght' 800;fill:#ffb524"
+           id="tspan8">メインタイトル</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text3"
+       style="font-size:133.333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP, @wght=400';font-variation-settings:'wght' 400;text-align:center;white-space:pre;shape-inside:url(#rect3);display:inline"
+       x="861.86444"
+       y="0"
+       transform="translate(0,22)"><tspan
+         x="91.632423"
+         y="625.12661"
+         id="tspan13"><tspan
+           style="-inkscape-font-specification:'Noto Sans JP @wght=800';font-variation-settings:'wght' 800;fill:#ffffff"
+           id="tspan10">〜スライド</tspan><tspan
+           style="-inkscape-font-specification:'Noto Sans JP @wght=800';font-variation-settings:'wght' 800;fill:#ffffff"
+           id="tspan11">の</tspan><tspan
+           dx="0 0 0 -0.00010681152"
+           style="-inkscape-font-specification:'Noto Sans JP @wght=800';font-variation-settings:'wght' 800;fill:#ffffff"
+           id="tspan12">サブタイトル〜</tspan></tspan></text>
+    <g
+       id="g1">
+      <rect
+         style="font-variation-settings:'wght' 800;fill:#40516b;fill-opacity:1;stroke:none;stroke-width:13.8167;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:13.8167, 27.6332;stroke-opacity:0.48743"
+         id="rect4"
+         width="1919.9999"
+         height="166.20995"
+         x="1930"
+         y="0"
+         inkscape:label="page_title_background2" />
+      <text
+         xml:space="preserve"
+         id="text3-9"
+         style="font-size:85.3333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP, @wght=400';font-variation-settings:'wght' 400;text-align:center;white-space:pre;shape-inside:url(#rect3-9);shape-padding:0;display:inline"
+         x="861.86444"
+         y="0"
+         transform="translate(1043.7501,-460.84329)"><tspan
+           x="926.82141"
+           y="576.88692"
+           id="tspan15"><tspan
+             style="-inkscape-font-specification:'Noto Sans JP @wght=800';font-variation-settings:'wght' 800;fill:#ffffff"
+             id="tspan14">ページタイトル</tspan></tspan></text>
+    </g>
+    <g
+       id="g2">
+      <rect
+         style="font-variation-settings:'wght' 800;fill:#40516b;fill-opacity:1;stroke:none;stroke-width:13.8167;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:13.8167, 27.6332;stroke-opacity:0.48743"
+         id="rect4-7"
+         width="1919.9999"
+         height="166.20995"
+         x="3860"
+         y="0"
+         inkscape:label="page_tite_background" />
+      <text
+         xml:space="preserve"
+         id="text3-9-9"
+         style="font-size:85.3333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP, @wght=400';font-variation-settings:'wght' 400;text-align:center;white-space:pre;shape-inside:url(#rect3-9-4-8);shape-padding:0;display:inline"
+         x="861.86444"
+         y="0"
+         transform="translate(2973.7502,-460.84329)"><tspan
+           x="926.82141"
+           y="576.88692"
+           id="tspan17"><tspan
+             style="-inkscape-font-specification:'Noto Sans JP @wght=800';font-variation-settings:'wght' 800;fill:#ffffff"
+             id="tspan16">ページタイトル</tspan></tspan></text>
+    </g>
+    <g
+       id="g3">
+      <rect
+         style="font-variation-settings:'wght' 800;fill:#40516b;fill-opacity:1;stroke:none;stroke-width:13.8167;stroke-linecap:square;stroke-miterlimit:10;stroke-dasharray:13.8167, 27.6332;stroke-opacity:0.48743"
+         id="rect4-7-8"
+         width="1919.9999"
+         height="166.20995"
+         x="5790"
+         y="0"
+         inkscape:label="page_tite_background" />
+      <text
+         xml:space="preserve"
+         id="text3-9-9-9"
+         style="font-size:85.3333px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP, @wght=400';font-variation-settings:'wght' 400;text-align:center;white-space:pre;shape-inside:url(#rect3-9-4-8-3);shape-padding:0;display:inline"
+         x="861.86444"
+         y="0"
+         transform="translate(4903.7503,-460.84329)"><tspan
+           x="926.82141"
+           y="576.88692"
+           id="tspan19"><tspan
+             style="-inkscape-font-specification:'Noto Sans JP @wght=800';font-variation-settings:'wght' 800;fill:#ffffff"
+             id="tspan18">ページタイトル</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
