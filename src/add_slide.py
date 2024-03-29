@@ -11,6 +11,7 @@ import sys
 def find_dir_with_numberprefix(
     name_without_numberprefix, root_dir, prefix_separator="_"
 ):
+    name_without_numberprefix = re.sub(r"\s+", "_", name_without_numberprefix)
     ab_root_dir = expand_path(root_dir)
     max_no = 0
     match_dir = None
