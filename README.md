@@ -21,7 +21,7 @@ options:
   --without-code        VScodeでプロジェクトを開かない。
   --template-dir TEMPLATE_DIR
                         プロジェクトを新規作成時に雛形とするディレクトリ。(デフォルト値: ~/opt/add_slide/template)
-  -t {default,short}, --template-name {default,short}
+  -t {default,short,marp}, --template-name {default,short,marp}
                         テンプレート名。(デフォルト値: default)
 ```
 

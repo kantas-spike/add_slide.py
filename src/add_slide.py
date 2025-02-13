@@ -49,7 +49,7 @@ def main():
         tpath = get_template_path(args.template_dir, args.template_name)
         print(f"template dir({tpath})...")
         if os.path.isdir(tpath):
-            for i in glob.glob(os.path.join(tpath, "*")):
+            for i in glob.glob(os.path.join(tpath, "*"), include_hidden=True):
                 bname = os.path.basename(i)
                 dst_path = os.path.join(dpath, bname)
                 if os.path.isdir(i):
@@ -111,7 +111,7 @@ def parse_args():
         "-t",
         "--template-name",
         default=DEFAULT_TEMPLATE_NAME,
-        choices=[DEFAULT_TEMPLATE_NAME, "short"],
+        choices=[DEFAULT_TEMPLATE_NAME, "short", "marp"],
         help=f"テンプレート名。(デフォルト値: {DEFAULT_TEMPLATE_NAME})",
     )
 
