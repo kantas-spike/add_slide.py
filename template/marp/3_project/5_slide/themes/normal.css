@@ -17,7 +17,7 @@ section {
   color: var(--color-on-background);
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
 }
 
 section.first {
@@ -62,34 +62,35 @@ h1 {
   line-height: var(--tokens-line-height-120);
   background-color: var(--color-primary);
   color: var(--color-on-primary);
-  padding: 2rem 0;
+  padding: 2rem 4rem;
   margin: 0;
   width: 100%;
-  text-align: center;
 }
 
 h2 {
   font-size: var(--tokens-font-size-72);
   font-weight: var(--tokens-font-weight-700);
   line-height: var(--tokens-line-height-120);
-  text-align: center;
-  margin: 1rem;
+  margin: 4rem 4rem 2rem;
 }
 
 h3 {
   font-size: var(--tokens-font-size-64);
   font-weight: var(--tokens-font-weight-700);
   line-height: var(--tokens-line-height-120);
-  text-align: center;
-  margin: 1rem;
+  margin: 2rem 4rem;
 }
 
 p {
-  font-size: var(--tokens-font-size-48);
   font-weight: var(--tokens-font-weight-700);
   line-height: var(--tokens-line-height-120);
-  text-align: center;
-  margin: 1rem;
+  font-size: var(--tokens-font-size-57);
+  margin: 1rem 6rem;
+}
+
+ul {
+  font-size: var(--tokens-font-size-57);
+  margin: 1rem 6rem;
 }
 
 section div.spacer {
